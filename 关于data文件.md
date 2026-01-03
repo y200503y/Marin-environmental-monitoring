@@ -1,1 +1,1 @@
-data1与data2本身是一个文件夹里面的内容 路径为D:\Sea_environment\data\images（data1.zip与data2.zip均为images文件夹里面的内容）因为过大无法直接上传文件夹
+
